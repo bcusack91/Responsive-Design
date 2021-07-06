@@ -3,9 +3,10 @@
     and (device-height : 896px) 
     and (-webkit-device-pixel-ratio : 2) {
         p {width: 300px;
-        font-size: 17px;}
+        font-size: 35px;}
      }
 
 p {
     width: 800px;
+    font-size: 20px;
 }

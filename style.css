@@ -1,3 +1,10 @@
+p {
+    width: 800px;
+    font-size: 20px;
+    text-align: right;
+    color: blue;
+}
+
 @media only screen 
     and (device-width : 414px) 
     and (device-height : 896px) 
@@ -9,9 +16,3 @@
         }
     }
 
-p {
-    width: 800px;
-    font-size: 20px;
-    text-align: right;
-    color: blue;
-}
